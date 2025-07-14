@@ -5,4 +5,4 @@ datetime
 websocket
 smartapi-python==1.4.8
 logging
-smtplib==1.26.0
+logzero
